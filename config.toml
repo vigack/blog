@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "朝闻道"
+theme = "minimo"
